@@ -1,0 +1,1458 @@
+{
+  "contentPaths": [
+    {
+      "locale": "en",
+      "contentType": "survival",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "responders",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "skills",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "tier-list",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "multiplayer",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "updates",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "guides",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "weapons",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "zombies",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "maps",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "survival",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "responders",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "skills",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "tier-list",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "multiplayer",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "de",
+      "contentType": "updates",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "guides",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "weapons",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "zombies",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "maps",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "survival",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "responders",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "skills",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "tier-list",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "multiplayer",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ja",
+      "contentType": "updates",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "guides",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "weapons",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "zombies",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "maps",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "survival",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "responders",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "skills",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "tier-list",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "multiplayer",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "ko",
+      "contentType": "updates",
+      "slug": "__placeholder__",
+      "segments": [
+        "__placeholder__"
+      ],
+      "importPath": "__placeholder__",
+      "title": ""
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "early-game-guide",
+      "segments": [
+        "early-game-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Early-Game-Guide",
+      "title": "No More Room in Hell 2 Early Game Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "horde-management",
+      "segments": [
+        "horde-management"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Horde-Management",
+      "title": "No More Room in Hell 2 Horde Management"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "mc-15",
+      "segments": [
+        "mc-15"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Mc-15",
+      "title": "No More Room in Hell 2 Mc 15"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "nmrih2-best-melee-weapon",
+      "segments": [
+        "nmrih2-best-melee-weapon"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Best-Melee-Weapon",
+      "title": "No More Room in Hell 2 Nmrih2 Best Melee Weapon Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "nmrih2-chef-zombie",
+      "segments": [
+        "nmrih2-chef-zombie"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Chef-Zombie",
+      "title": "No More Room in Hell 2 Nmrih2 Chef Zombie Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "nmrih2-how-to-revive-teammates",
+      "segments": [
+        "nmrih2-how-to-revive-teammates"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-How-To-Revive-Teammates",
+      "title": "No More Room in Hell 2 Nmrih2 How to Revive Teammates Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "nmrih2-m1911-guide",
+      "segments": [
+        "nmrih2-m1911-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-M1911-Guide",
+      "title": "No More Room in Hell 2 Nmrih2 M1911 Guide Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "nmrih2-prime-zombies",
+      "segments": [
+        "nmrih2-prime-zombies"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Prime-Zombies",
+      "title": "No More Room in Hell 2 Nmrih2 Prime Zombies Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "nmrih2-revive-syringe",
+      "segments": [
+        "nmrih2-revive-syringe"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Revive-Syringe",
+      "title": "No More Room in Hell 2 Nmrih2 Revive Syringe Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "nmrih2-sledgehammer",
+      "segments": [
+        "nmrih2-sledgehammer"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Sledgehammer",
+      "title": "No More Room in Hell 2 Nmrih2 Sledgehammer Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "maps",
+      "slug": "nmrih2-survival-map-guide",
+      "segments": [
+        "nmrih2-survival-map-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Survival-Map-Guide",
+      "title": "No More Room in Hell 2 Nmrih2 Survival Map Guide Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "nmrih2-tutorial",
+      "segments": [
+        "nmrih2-tutorial"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Tutorial",
+      "title": "No More Room in Hell 2 Nmrih2 Tutorial Walkthrough"
+    },
+    {
+      "locale": "en",
+      "contentType": "maps",
+      "slug": "no-more-room-in-hell-2-all-maps",
+      "segments": [
+        "no-more-room-in-hell-2-all-maps"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-All-Maps",
+      "title": "No More Room in Hell 2 All Maps Loadout Optimization"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "no-more-room-in-hell-2-beginner-guide",
+      "segments": [
+        "no-more-room-in-hell-2-beginner-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Beginner-Guide",
+      "title": "No More Room in Hell 2 Beginner Guide Basics Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "no-more-room-in-hell-2-dismemberment",
+      "segments": [
+        "no-more-room-in-hell-2-dismemberment"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Dismemberment",
+      "title": "No More Room in Hell 2 Dismemberment Explained Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "no-more-room-in-hell-2-firearm-guide",
+      "segments": [
+        "no-more-room-in-hell-2-firearm-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Firearm-Guide",
+      "title": "No More Room in Hell 2 Firearm Guide Explained Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "no-more-room-in-hell-2-how-long-to-beat",
+      "segments": [
+        "no-more-room-in-hell-2-how-long-to-beat"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-How-Long-To-Beat",
+      "title": "No More Room in Hell 2 How Long to Beat Walkthrough"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "no-more-room-in-hell-2-how-to-survive",
+      "segments": [
+        "no-more-room-in-hell-2-how-to-survive"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-How-To-Survive",
+      "title": "No More Room in Hell 2 How to Survive Basics Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "no-more-room-in-hell-2-m7a1-rifle",
+      "segments": [
+        "no-more-room-in-hell-2-m7a1-rifle"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-M7A1-Rifle",
+      "title": "No More Room in Hell 2 M7a1 Rifle Multiplayer Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "maps",
+      "slug": "no-more-room-in-hell-2-objective-maps",
+      "segments": [
+        "no-more-room-in-hell-2-objective-maps"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Objective-Maps",
+      "title": "No More Room in Hell 2 Objective Maps Basics Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "no-more-room-in-hell-2-objectives-explained",
+      "segments": [
+        "no-more-room-in-hell-2-objectives-explained"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Objectives-Explained",
+      "title": "No More Room in Hell 2 Objectives Explained Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "maps",
+      "slug": "no-more-room-in-hell-2-raven-rock-secrets",
+      "segments": [
+        "no-more-room-in-hell-2-raven-rock-secrets"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Raven-Rock-Secrets",
+      "title": "No More Room in Hell 2 Raven Rock Secrets Overview"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "no-more-room-in-hell-2-scopes-and-sights",
+      "segments": [
+        "no-more-room-in-hell-2-scopes-and-sights"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Scopes-And-Sights",
+      "title": "No More Room in Hell 2 Scopes and Sights Walkthrough"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "no-more-room-in-hell-2-survival-zombies",
+      "segments": [
+        "no-more-room-in-hell-2-survival-zombies"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Survival-Zombies",
+      "title": "No More Room in Hell 2 Survival Zombies Walkthrough"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "no-more-room-in-hell-2-weapons-list",
+      "segments": [
+        "no-more-room-in-hell-2-weapons-list"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Weapons-List",
+      "title": "No More Room in Hell 2 Weapons List Explained Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "no-more-room-in-hell-2-zombie-spawns",
+      "segments": [
+        "no-more-room-in-hell-2-zombie-spawns"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Zombie-Spawns",
+      "title": "No More Room in Hell 2 Zombie Spawns Explained Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "no-more-room-in-hell-2-zombie-types",
+      "segments": [
+        "no-more-room-in-hell-2-zombie-types"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Zombie-Types",
+      "title": "No More Room in Hell 2 Zombie Types Explained Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "zombies",
+      "slug": "police-zombie",
+      "segments": [
+        "police-zombie"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Police-Zombie",
+      "title": "No More Room in Hell 2 Police Zombie"
+    },
+    {
+      "locale": "en",
+      "contentType": "guides",
+      "slug": "skill-improvement-guide",
+      "segments": [
+        "skill-improvement-guide"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Skill-Improvement-Guide",
+      "title": "No More Room in Hell 2 Skill Improvement Guide"
+    },
+    {
+      "locale": "en",
+      "contentType": "weapons",
+      "slug": "suppressors",
+      "segments": [
+        "suppressors"
+      ],
+      "importPath": "No-More-Room-in-Hell-2-Suppressors",
+      "title": "No More Room in Hell 2 Suppressors"
+    }
+  ],
+  "tocMap": {
+    "guides:en:no-more-room-in-hell-2-beginner-guide": [
+      {
+        "id": "your-first-deployment-what-to-do-first-as-a-responder",
+        "text": "Your First Deployment: What to Do First as a Responder"
+      },
+      {
+        "id": "core-movement-and-stamina-mechanics",
+        "text": "Core Movement and Stamina Mechanics"
+      },
+      {
+        "id": "best-beginner-loadouts-and-weapons",
+        "text": "Best Beginner Loadouts and Weapons"
+      },
+      {
+        "id": "enemy-types-walker-runner-and-shambler",
+        "text": "Enemy Types: Walker, Runner, and Shambler"
+      },
+      {
+        "id": "progression-credits-merits-gene-therapy-and-phalanx-pills",
+        "text": "Progression: Credits, Merits, Gene Therapy, and Phalanx Pills"
+      },
+      {
+        "id": "map-specific-survival-tips-raven-rock-flooded-and-nightmare",
+        "text": "Map-Specific Survival Tips: Raven Rock, Flooded, and Nightmare"
+      },
+      {
+        "id": "common-beginner-mistakes-and-how-to-fix-them",
+        "text": "Common Beginner Mistakes and How to Fix Them"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:early-game-guide": [
+      {
+        "id": "start-in-the-tutorial-gym-before-anything-else",
+        "text": "Start in the Tutorial Gym Before Anything Else"
+      },
+      {
+        "id": "nmrih2-survival-basics-audio-cues-and-awareness",
+        "text": "nmrih2 Survival Basics: Audio Cues and Awareness"
+      },
+      {
+        "id": "best-starting-loadout-for-new-responders",
+        "text": "Best Starting Loadout for New Responders"
+      }
+    ],
+    "guides:en:no-more-room-in-hell-2-firearm-guide": [
+      {
+        "id": "the-armageddon-10-firearm-meta",
+        "text": "The Armageddon 1.0 Firearm Meta"
+      },
+      {
+        "id": "firearm-tier-rankings-for-every-responder",
+        "text": "Firearm Tier Rankings for Every Responder"
+      },
+      {
+        "id": "how-to-get-better-aiming-recoil-and-stamina",
+        "text": "How to Get Better: Aiming, Recoil, and Stamina"
+      },
+      {
+        "id": "advanced-tips-loadouts-and-ammo-management",
+        "text": "Advanced Tips: Loadouts and Ammo Management"
+      },
+      {
+        "id": "mistakes-to-avoid-with-firearms",
+        "text": "Mistakes to Avoid with Firearms"
+      },
+      {
+        "id": "no-more-room-in-hell-2-vs-left-4-dead-gunplay-differences",
+        "text": "No More Room in Hell 2 vs Left 4 Dead: Gunplay Differences"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:no-more-room-in-hell-2-how-long-to-beat": [
+      {
+        "id": "mission-length-breakdown",
+        "text": "Mission Length Breakdown"
+      },
+      {
+        "id": "difficulty-tiers-and-how-they-change-the-clock",
+        "text": "Difficulty Tiers and How They Change the Clock"
+      },
+      {
+        "id": "what-actually-eats-your-time",
+        "text": "What Actually Eats Your Time"
+      },
+      {
+        "id": "progression-systems-and-total-time-investment",
+        "text": "Progression Systems and Total Time Investment"
+      },
+      {
+        "id": "console-guide-and-platform-differences",
+        "text": "Console Guide and Platform Differences"
+      },
+      {
+        "id": "beginner-tips-to-shorten-your-run",
+        "text": "Beginner Tips to Shorten Your Run"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:nmrih2-how-to-revive-teammates": [
+      {
+        "id": "the-downed-state-what-happens-when-a-responder-drops",
+        "text": "The Downed State: What Happens When a Responder Drops"
+      },
+      {
+        "id": "step-by-step-how-to-revive-a-teammate-safely",
+        "text": "Step-by-Step: How to Revive a Teammate Safely"
+      },
+      {
+        "id": "revive-mechanics-and-risk-management",
+        "text": "Revive Mechanics and Risk Management"
+      },
+      {
+        "id": "advanced-revive-tactics-for-nightmare-difficulty",
+        "text": "Advanced Revive Tactics for Nightmare Difficulty"
+      },
+      {
+        "id": "team-loadout-synergies-for-revives",
+        "text": "Team Loadout Synergies for Revives"
+      }
+    ],
+    "guides:en:no-more-room-in-hell-2-how-to-survive": [
+      {
+        "id": "the-four-core-survival-loops-every-responder-must-master",
+        "text": "The Four Core Survival Loops Every Responder Must Master"
+      },
+      {
+        "id": "building-the-optimal-loadout-for-your-first-runs",
+        "text": "Building the Optimal Loadout for Your First Runs"
+      },
+      {
+        "id": "healing-systems-gene-therapy-phalanx-pills-and-how-to-heal",
+        "text": "Healing Systems: Gene Therapy, Phalanx Pills, and How to Heal"
+      },
+      {
+        "id": "barricading-and-objective-defense-how-to-barricade-like-a-pro",
+        "text": "Barricading and Objective Defense: How to Barricade Like a Pro"
+      },
+      {
+        "id": "solo-play-the-no-more-room-in-hell-2-solo-guide",
+        "text": "Solo Play: The No More Room in Hell 2 Solo Guide"
+      },
+      {
+        "id": "common-beginner-mistakes-and-advanced-tips",
+        "text": "Common Beginner Mistakes and Advanced Tips"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:no-more-room-in-hell-2-objectives-explained": [
+      {
+        "id": "understanding-the-objective-system-in-nmrih2",
+        "text": "Understanding the Objective System in NMRIH2"
+      },
+      {
+        "id": "core-objective-types-and-how-to-complete-them",
+        "text": "Core Objective Types and How to Complete Them"
+      },
+      {
+        "id": "looting-and-inventory-management-for-objectives",
+        "text": "Looting and Inventory Management for Objectives"
+      },
+      {
+        "id": "melee-and-firearm-strategies-for-objective-runs",
+        "text": "Melee and Firearm Strategies for Objective Runs"
+      },
+      {
+        "id": "advanced-tips-and-common-mistakes",
+        "text": "Advanced Tips and Common Mistakes"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:nmrih2-revive-syringe": [
+      {
+        "id": "what-is-the-nmrih2-revive-syringe",
+        "text": "What Is the nmrih2 Revive Syringe?"
+      },
+      {
+        "id": "step-by-step-revival-protocol",
+        "text": "Step-by-Step Revival Protocol"
+      },
+      {
+        "id": "strategic-usage-and-team-synergy",
+        "text": "Strategic Usage and Team Synergy"
+      },
+      {
+        "id": "nmrih2-common-mistakes-and-pro-tips",
+        "text": "nmrih2 Common Mistakes and Pro Tips"
+      },
+      {
+        "id": "map-by-map-syringe-priority",
+        "text": "Map-by-Map Syringe Priority"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:skill-improvement-guide": [
+      {
+        "id": "the-responder-core-loop",
+        "text": "The Responder Core Loop"
+      },
+      {
+        "id": "training-range-drills-that-transfer-to-real-runs",
+        "text": "Training Range Drills That Transfer to Real Runs"
+      },
+      {
+        "id": "loadout-optimization-for-your-role",
+        "text": "Loadout Optimization for Your Role"
+      },
+      {
+        "id": "zombie-threat-identification-and-engagement-rules",
+        "text": "Zombie Threat Identification and Engagement Rules"
+      },
+      {
+        "id": "settings-guide-for-competitive-advantage",
+        "text": "Settings Guide for Competitive Advantage"
+      },
+      {
+        "id": "is-no-more-room-in-hell-2-worth-it-in-2026",
+        "text": "Is No More Room in Hell 2 Worth It in 2026?"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "guides:en:nmrih2-tutorial": [
+      {
+        "id": "what-is-the-nmrih2-tutorial-gym",
+        "text": "What Is the nmrih2 Tutorial Gym?"
+      },
+      {
+        "id": "core-mechanics-every-responder-must-master",
+        "text": "Core Mechanics Every Responder Must Master"
+      },
+      {
+        "id": "best-loadouts-for-new-responders",
+        "text": "Best Loadouts for New Responders"
+      },
+      {
+        "id": "zombie-types-and-how-to-counter-them",
+        "text": "Zombie Types and How to Counter Them"
+      },
+      {
+        "id": "progression-credits-merits-and-gene-therapy",
+        "text": "Progression: Credits, Merits, and Gene Therapy"
+      },
+      {
+        "id": "common-beginner-mistakes-to-avoid",
+        "text": "Common Beginner Mistakes to Avoid"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:nmrih2-best-melee-weapon": [
+      {
+        "id": "melee-combat-fundamentals-in-nmrih2",
+        "text": "Melee Combat Fundamentals in NMRIH2"
+      },
+      {
+        "id": "every-melee-weapon-ranked---the-tier-list",
+        "text": "Every Melee Weapon Ranked - The Tier List"
+      },
+      {
+        "id": "why-the-crowbar-is-the-nmrih2-best-melee-weapon",
+        "text": "Why the Crowbar is the nmrih2 best melee weapon"
+      },
+      {
+        "id": "situational-picks---when-to-swap",
+        "text": "Situational Picks - When to Swap"
+      },
+      {
+        "id": "melee-loadout-synergies",
+        "text": "Melee Loadout Synergies"
+      },
+      {
+        "id": "advanced-melee-tactics",
+        "text": "Advanced Melee Tactics"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:nmrih2-m1911-guide": [
+      {
+        "id": "m1911-overview-and-core-stats",
+        "text": "M1911 Overview and Core Stats"
+      },
+      {
+        "id": "m1911-vs-other-sidearms",
+        "text": "M1911 vs Other Sidearms"
+      },
+      {
+        "id": "best-attachments-and-loadouts",
+        "text": "Best Attachments and Loadouts"
+      }
+    ],
+    "weapons:en:no-more-room-in-hell-2-m7a1-rifle": [
+      {
+        "id": "m7a1-rifle-overview-and-lore",
+        "text": "M7A1 Rifle Overview and Lore"
+      },
+      {
+        "id": "m7a1-stats-and-damage-breakdown",
+        "text": "M7A1 Stats and Damage Breakdown"
+      },
+      {
+        "id": "best-attachments-for-the-m7a1",
+        "text": "Best Attachments for the M7A1"
+      },
+      {
+        "id": "m7a1-vs-other-weapons",
+        "text": "M7A1 vs Other Weapons"
+      },
+      {
+        "id": "perks-and-skill-builds-for-the-m7a1",
+        "text": "Perks and Skill Builds for the M7A1"
+      },
+      {
+        "id": "map-specific-strategies",
+        "text": "Map-Specific Strategies"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:mc-15": [
+      {
+        "id": "mc-15-overview-and-core-stats",
+        "text": "MC-15 Overview and Core Stats"
+      }
+    ],
+    "weapons:en:no-more-room-in-hell-2-scopes-and-sights": [
+      {
+        "id": "how-optics-work-in-no-more-room-in-hell-2",
+        "text": "How Optics Work in No More Room in Hell 2"
+      },
+      {
+        "id": "every-optic-and-sight-in-nmrih2",
+        "text": "Every Optic and Sight in NMRIH2"
+      },
+      {
+        "id": "iron-sights-vs-attached-optics",
+        "text": "Iron Sights vs. Attached Optics"
+      },
+      {
+        "id": "best-scopes-by-weapon-class",
+        "text": "Best Scopes by Weapon Class"
+      },
+      {
+        "id": "zeroing-ballistics-and-recoil-compensation",
+        "text": "Zeroing, Ballistics, and Recoil Compensation"
+      },
+      {
+        "id": "meta-picks-and-loadout-recommendations",
+        "text": "Meta Picks and Loadout Recommendations"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:nmrih2-sledgehammer": [
+      {
+        "id": "sledgehammer-overview-the-heavy-hitter",
+        "text": "Sledgehammer Overview: The Heavy Hitter"
+      },
+      {
+        "id": "sledgehammer-vs-hatchet-vs-machete-which-melee-wins",
+        "text": "Sledgehammer vs Hatchet vs Machete: Which Melee Wins?"
+      },
+      {
+        "id": "best-perks-and-skill-builds-for-the-sledgehammer",
+        "text": "Best Perks and Skill Builds for the Sledgehammer"
+      },
+      {
+        "id": "attachments-and-mods-for-the-sledgehammer",
+        "text": "Attachments and Mods for the Sledgehammer"
+      },
+      {
+        "id": "sledgehammer-in-nightmare-and-permadeath-modes",
+        "text": "Sledgehammer in Nightmare and Permadeath Modes"
+      },
+      {
+        "id": "tips-and-tricks-for-mastering-the-sledgehammer",
+        "text": "Tips and Tricks for Mastering the Sledgehammer"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:suppressors": [
+      {
+        "id": "how-suppressors-work-in-nmrih2",
+        "text": "How Suppressors Work in NMRIH2"
+      },
+      {
+        "id": "best-weapons-for-suppressors",
+        "text": "Best Weapons for Suppressors"
+      },
+      {
+        "id": "where-to-find-suppressors",
+        "text": "Where to Find Suppressors"
+      },
+      {
+        "id": "suppressor-vs-other-attachments",
+        "text": "Suppressor vs Other Attachments"
+      },
+      {
+        "id": "tactical-use-stealth-and-nightmare-mode",
+        "text": "Tactical Use: Stealth and Nightmare Mode"
+      },
+      {
+        "id": "suppressor-meta-and-loadouts",
+        "text": "Suppressor Meta and Loadouts"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "weapons:en:no-more-room-in-hell-2-weapons-list": [
+      {
+        "id": "breaking-down-the-no-more-room-in-hell-2-weapons-list",
+        "text": "Breaking Down the No More Room in Hell 2 Weapons List"
+      },
+      {
+        "id": "no-more-room-in-hell-2-weapon-stats-firearms",
+        "text": "No More Room in Hell 2 Weapon Stats: Firearms"
+      },
+      {
+        "id": "no-more-room-in-hell-2-weapon-stats-melee-weapons",
+        "text": "No More Room in Hell 2 Weapon Stats: Melee Weapons"
+      },
+      {
+        "id": "attachments-optics-and-loadout-strategy",
+        "text": "Attachments, Optics, and Loadout Strategy"
+      },
+      {
+        "id": "best-weapons-and-loadouts-by-situation",
+        "text": "Best Weapons and Loadouts by Situation"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:nmrih2-chef-zombie": [
+      {
+        "id": "what-is-the-nmrih2-chef-zombie",
+        "text": "What Is the nmrih2 Chef Zombie?"
+      },
+      {
+        "id": "chef-zombie-stats-and-damage-profile",
+        "text": "Chef Zombie Stats and Damage Profile"
+      },
+      {
+        "id": "weak-spots-the-nmrih2-headshot-guide",
+        "text": "Weak Spots: The nmrih2 Headshot Guide"
+      },
+      {
+        "id": "best-weapons-and-loadouts-for-chef-zombies",
+        "text": "Best Weapons and Loadouts for Chef Zombies"
+      },
+      {
+        "id": "how-to-deal-with-chef-zombies-in-a-horde",
+        "text": "How to Deal with Chef Zombies in a Horde"
+      },
+      {
+        "id": "spawn-locations-difficulty-modes-and-progression",
+        "text": "Spawn Locations, Difficulty Modes, and Progression"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:no-more-room-in-hell-2-dismemberment": [
+      {
+        "id": "understanding-the-dismemberment-system",
+        "text": "Understanding the Dismemberment System"
+      }
+    ],
+    "zombies:en:horde-management": [
+      {
+        "id": "how-nmrih2-zombie-ai-drives-horde-formation",
+        "text": "How NMRIH2 Zombie AI Drives Horde Formation"
+      },
+      {
+        "id": "nmrih2-zombie-spawning-guide-how-hordes-are-generated",
+        "text": "NMRIH2 Zombie Spawning Guide: How Hordes Are Generated"
+      },
+      {
+        "id": "core-horde-management-strategies-that-work",
+        "text": "Core Horde Management Strategies That Work"
+      },
+      {
+        "id": "best-loadouts-for-horde-control",
+        "text": "Best Loadouts for Horde Control"
+      },
+      {
+        "id": "advanced-scenarios-nightmare-permadeath-and-flooded",
+        "text": "Advanced Scenarios: Nightmare, Permadeath, and Flooded"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:police-zombie": [
+      {
+        "id": "what-is-the-no-more-room-in-hell-2-police-zombie",
+        "text": "What Is the No More Room in Hell 2 Police Zombie?"
+      },
+      {
+        "id": "no-more-room-in-hell-2-zombie-health-and-armor-mechanics",
+        "text": "No More Room in Hell 2 Zombie Health and Armor Mechanics"
+      },
+      {
+        "id": "best-way-to-kill-zombies-weapon-tier-list-for-police-zombies",
+        "text": "Best Way to Kill Zombies: Weapon Tier List for Police Zombies"
+      },
+      {
+        "id": "horde-mechanics-and-police-zombie-spawns",
+        "text": "Horde Mechanics and Police Zombie Spawns"
+      },
+      {
+        "id": "advanced-strategies-phalanx-gene-therapy-and-loadout-synergy",
+        "text": "Advanced Strategies: Phalanx, Gene Therapy, and Loadout Synergy"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:nmrih2-prime-zombies": [
+      {
+        "id": "what-are-prime-zombies-in-nmrih2",
+        "text": "What Are Prime Zombies in NMRIH2?"
+      },
+      {
+        "id": "prime-zombie-types-and-stats",
+        "text": "Prime Zombie Types and Stats"
+      },
+      {
+        "id": "prime-zombie-ai-and-detection-mechanics",
+        "text": "Prime Zombie AI and Detection Mechanics"
+      },
+      {
+        "id": "best-weapons-and-loadouts-against-prime-zombies",
+        "text": "Best Weapons and Loadouts Against Prime Zombies"
+      },
+      {
+        "id": "prime-zombie-spawns-and-horde-management",
+        "text": "Prime Zombie Spawns and Horde Management"
+      },
+      {
+        "id": "advanced-strategies-for-nightmare-and-permadeath",
+        "text": "Advanced Strategies for Nightmare and Permadeath"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:no-more-room-in-hell-2-survival-zombies": [
+      {
+        "id": "understanding-the-zombie-threat-in-nmrih2",
+        "text": "Understanding the Zombie Threat in NMRIH2"
+      },
+      {
+        "id": "the-npv-infection-system",
+        "text": "The NPV Infection System"
+      },
+      {
+        "id": "best-weapons-for-zombie-encounters",
+        "text": "Best Weapons for Zombie Encounters"
+      },
+      {
+        "id": "perks-and-gene-therapy-builds",
+        "text": "Perks and Gene Therapy Builds"
+      },
+      {
+        "id": "map-specific-survival-tactics",
+        "text": "Map-Specific Survival Tactics"
+      },
+      {
+        "id": "nightmare-mode-and-permadeath",
+        "text": "Nightmare Mode and Permadeath"
+      },
+      {
+        "id": "horde-wave-management",
+        "text": "Horde Wave Management"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:no-more-room-in-hell-2-zombie-spawns": [
+      {
+        "id": "understanding-no-more-room-in-hell-2-zombie-spawns",
+        "text": "Understanding No More Room in Hell 2 Zombie Spawns"
+      },
+      {
+        "id": "the-noise-mechanic-how-sound-triggers-spawns",
+        "text": "The Noise Mechanic: How Sound Triggers Spawns"
+      },
+      {
+        "id": "zombie-types-and-their-spawn-patterns",
+        "text": "Zombie Types and Their Spawn Patterns"
+      },
+      {
+        "id": "difficulty-scaling-and-spawn-rates",
+        "text": "Difficulty Scaling and Spawn Rates"
+      },
+      {
+        "id": "map-specific-spawn-hotspots",
+        "text": "Map-Specific Spawn Hotspots"
+      },
+      {
+        "id": "loadout-strategies-for-spawn-heavy-zones",
+        "text": "Loadout Strategies for Spawn-Heavy Zones"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "zombies:en:no-more-room-in-hell-2-zombie-types": [
+      {
+        "id": "the-seven-core-zombie-types-in-no-more-room-in-hell-2",
+        "text": "The Seven Core Zombie Types in No More Room in Hell 2"
+      },
+      {
+        "id": "zombie-ai-detection-sight-sound-and-blood-trails",
+        "text": "Zombie AI Detection: Sight, Sound, and Blood Trails"
+      },
+      {
+        "id": "dismemberment-and-limb-damage-tactics",
+        "text": "Dismemberment and Limb Damage Tactics"
+      },
+      {
+        "id": "horde-wave-management-and-trigger-conditions",
+        "text": "Horde Wave Management and Trigger Conditions"
+      },
+      {
+        "id": "weapon-loadout-recommendations-by-zombie-type",
+        "text": "Weapon Loadout Recommendations by Zombie Type"
+      },
+      {
+        "id": "progression-rewards-and-unlockables",
+        "text": "Progression, Rewards, and Unlockables"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "maps:en:no-more-room-in-hell-2-all-maps": [
+      {
+        "id": "no-more-room-in-hell-2-all-maps-overview",
+        "text": "No More Room in Hell 2 All Maps Overview"
+      },
+      {
+        "id": "beaulieu-hospital-the-starter-gauntlet",
+        "text": "Beaulieu Hospital: The Starter Gauntlet"
+      },
+      {
+        "id": "government-bunker-the-claustrophobic-grind",
+        "text": "Government Bunker: The Claustrophobic Grind"
+      },
+      {
+        "id": "raven-rock-the-mountain-fortress",
+        "text": "Raven Rock: The Mountain Fortress"
+      },
+      {
+        "id": "flooded-and-lighthouse-environmental-nightmares",
+        "text": "Flooded and Lighthouse: Environmental Nightmares"
+      },
+      {
+        "id": "night-of-the-living-dead-the-horror-homage",
+        "text": "Night of the Living Dead: The Horror Homage"
+      },
+      {
+        "id": "loadout-optimization-for-every-map",
+        "text": "Loadout Optimization for Every Map"
+      },
+      {
+        "id": "perks-skills-and-progression",
+        "text": "Perks, Skills, and Progression"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "maps:en:no-more-room-in-hell-2-objective-maps": [
+      {
+        "id": "what-are-objective-maps-in-no-more-room-in-hell-2",
+        "text": "What Are Objective Maps in No More Room in Hell 2?"
+      },
+      {
+        "id": "complete-objective-map-list-and-rotation",
+        "text": "Complete Objective Map List and Rotation"
+      },
+      {
+        "id": "core-mechanics-on-objective-maps",
+        "text": "Core Mechanics on Objective Maps"
+      },
+      {
+        "id": "best-loadouts-for-objective-runs",
+        "text": "Best Loadouts for Objective Runs"
+      },
+      {
+        "id": "team-roles-and-communication",
+        "text": "Team Roles and Communication"
+      },
+      {
+        "id": "difficulty-modes-rewards-and-progression",
+        "text": "Difficulty Modes, Rewards, and Progression"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      }
+    ],
+    "maps:en:no-more-room-in-hell-2-raven-rock-secrets": [
+      {
+        "id": "raven-rock-overview-layout-and-key-landmarks",
+        "text": "Raven Rock Overview: Layout and Key Landmarks"
+      },
+      {
+        "id": "supply-locations-and-loot-tables",
+        "text": "Supply Locations and Loot Tables"
+      }
+    ],
+    "maps:en:nmrih2-survival-map-guide": [
+      {
+        "id": "survival-mode-basics-and-map-rotation",
+        "text": "Survival Mode Basics and Map Rotation"
+      },
+      {
+        "id": "nmrih2-map-difficulty-ranking",
+        "text": "Nmrih2 Map Difficulty Ranking"
+      },
+      {
+        "id": "broadway-walkthrough",
+        "text": "Broadway Walkthrough"
+      },
+      {
+        "id": "powerplant-walkthrough",
+        "text": "Powerplant Walkthrough"
+      },
+      {
+        "id": "raven-rock-walkthrough",
+        "text": "Raven Rock Walkthrough"
+      },
+      {
+        "id": "advanced-survival-strategies",
+        "text": "Advanced Survival Strategies"
+      },
+      {
+        "id": "frequently-asked-questions",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "id": "final-thoughts",
+        "text": "Final Thoughts"
+      }
+    ]
+  }
+}

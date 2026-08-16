@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="65%">
+      <stop offset="0%" stop-color="#1a1410"/>
+      <stop offset="60%" stop-color="#0a0a0c"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="flashlightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFE89A" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#D8B45A" stop-opacity="0.4"/>
+    </linearGradient>
+    <radialGradient id="bloodGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#C2202F" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#8a1f1f" stop-opacity="0.6"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="55%" r="70%">
+      <stop offset="40%" stop-color="#0a0a0c" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.85"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Rounded black background tile -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bgGrad)"/>
+
+  <!-- Flashlight beam coming from upper-left, narrow and broken -->
+  <path d="M 80 60 L 200 60 L 240 360 L 180 380 L 60 240 Z" fill="url(#flashlightGrad)" opacity="0.35"/>
+  <path d="M 80 60 L 180 80 L 220 320 L 160 340 L 70 220 Z" fill="#FFE89A" opacity="0.18"/>
+
+  <!-- Undead silhouette: head + shoulders emerging from pitch-black -->
+  <g transform="translate(256 290)">
+    <!-- Shoulders -->
+    <path d="M -180 80 Q -160 0 -100 -10 L 100 -10 Q 160 0 180 80 L 180 140 L -180 140 Z" fill="#3a3530" opacity="0.92"/>
+    <path d="M -160 50 Q -140 -20 -90 -28 L 90 -28 Q 140 -20 160 50 L 160 90 L -160 90 Z" fill="#4a4540" opacity="0.85"/>
+
+    <!-- Neck -->
+    <rect x="-32" y="-40" width="64" height="40" rx="8" fill="#5a5550"/>
+
+    <!-- Head shape (irregular, gaunt skull) -->
+    <path d="M -75 -55 Q -85 -110 -55 -145 Q -30 -170 0 -175 Q 30 -170 55 -145 Q 85 -110 75 -55 Q 70 -20 60 0 L 50 20 L -50 20 L -60 0 Q -70 -20 -75 -55 Z" fill="#8A8A72"/>
+
+    <!-- Shadow on the unlit side of the head (right side stays in pitch-black) -->
+    <path d="M 0 -175 Q 30 -170 55 -145 Q 85 -110 75 -55 Q 70 -20 60 0 L 50 20 L 0 20 L 0 -175 Z" fill="#2a2520" opacity="0.85"/>
+
+    <!-- Torn/Jagged mouth (gaping) -->
+    <path d="M -38 5 Q -30 -5 -18 -3 Q -5 -8 5 -3 Q 18 -8 30 -3 Q 38 -5 38 12 Q 35 26 22 22 Q 8 30 -5 22 Q -22 30 -32 22 Q -38 26 -38 5 Z" fill="#1a0a08" stroke="#2a1a14" stroke-width="2"/>
+    <!-- Teeth fragments -->
+    <rect x="-22" y="0" width="5" height="10" rx="1" fill="#d8c4a0"/>
+    <rect x="-10" y="2" width="4" height="11" rx="1" fill="#d8c4a0"/>
+    <rect x="2" y="0" width="5" height="12" rx="1" fill="#d8c4a0"/>
+    <rect x="14" y="2" width="4" height="10" rx="1" fill="#d8c4a0"/>
+    <!-- Blood drip from mouth -->
+    <path d="M -8 22 L -10 38 L -6 38 L -4 22 Z" fill="url(#bloodGlow)"/>
+    <path d="M 6 22 L 4 40 L 10 40 L 12 22 Z" fill="url(#bloodGlow)" opacity="0.85"/>
+
+    <!-- Left eye socket (hollow, deep black) -->
+    <ellipse cx="-32" cy="-95" rx="18" ry="22" fill="#000000"/>
+    <ellipse cx="-32" cy="-95" rx="14" ry="18" fill="#0a0808"/>
+
+    <!-- Right eye socket with blood-red glowing eye -->
+    <ellipse cx="32" cy="-95" rx="18" ry="22" fill="#000000"/>
+    <circle cx="32" cy="-95" r="9" fill="url(#bloodGlow)"/>
+    <circle cx="32" cy="-95" r="5" fill="#ff3040"/>
+    <circle cx="30" cy="-97" r="2" fill="#ff8090"/>
+
+    <!-- Decay scar on forehead -->
+    <path d="M -10 -130 Q 5 -118 18 -132" fill="none" stroke="#3a2018" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Cheekbone depression (dark shadow) -->
+    <path d="M -50 -40 Q -45 -25 -35 -20" fill="none" stroke="#3a3530" stroke-width="2.5" opacity="0.7"/>
+    <path d="M 50 -40 Q 45 -25 35 -20" fill="none" stroke="#3a3530" stroke-width="2.5" opacity="0.7"/>
+  </g>
+
+  <!-- Vignette overlay (focus attention on figure center) -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#vignette)"/>
+
+  <!-- Subtle bottom-corner blood splatter -->
+  <circle cx="60" cy="430" r="22" fill="#8a1f1f" opacity="0.45"/>
+  <circle cx="78" cy="446" r="14" fill="#a01f1f" opacity="0.55"/>
+  <circle cx="48" cy="450" r="9" fill="#6a1818" opacity="0.6"/>
+  <circle cx="450" cy="80" r="18" fill="#8a1f1f" opacity="0.3"/>
+</svg>

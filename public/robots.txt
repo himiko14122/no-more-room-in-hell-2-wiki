@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://no-more-room-in-hell-2.xyz/sitemap.xml

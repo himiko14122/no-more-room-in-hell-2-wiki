@@ -1,0 +1,13 @@
+{
+  "name": "No More Room in Hell 2 Wiki",
+  "short_name": "NMRIH2 Wiki",
+  "description": "The complete No More Room in Hell 2 wiki — survivor guides, weapons, zombies, maps, survival tips, responder loadouts, skill builds and update news.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1424",
+  "theme_color": "#14213d",
+  "icons": [
+    { "src": "/favicon-96x96.png", "sizes": "96x96", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
