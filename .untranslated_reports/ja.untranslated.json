@@ -1,0 +1,8 @@
+{
+  "locale": "ja",
+  "note": "must-translate keys that the LLM left in English after retry; require human/agent handling",
+  "untranslated": {
+    "weapon_mp5_name": "MP5 SMG",
+    "category_feature_guides_html": "<table><thead><tr><th>Topic</th><th>Best For</th><th>Key Information</th></tr></thead><tbody><tr><td>Controls &amp; Keybinds</td><td>New Responders</td><td>Movement, melee, firearm, item use and barricade keys on PC and controller</td></tr><tr><td>First Deployment</td><td>First run</td><td>Pick the campsite, choose a loadout, deploy with 7 squadmates to Lewiston or Broadway</td></tr><tr><td>Scavenging Loot</td><td>Every map</td><td>Prioritise medical supplies, ammo, and the gene therapy vial location</td></tr><tr><td>Infection Stages</td><td>Survivors</td><td>Coughing, acute psychosis, black veins and full conversion — pop phalanx pills early</td></tr><tr><td>Permadeath Rules</td><td>Nightmare runs</td><td>Once a Responder dies or converts, that character is gone for good</td></tr><tr><td>Extraction</td><td>Successful exfil</td><td>Bank supplies for Credits, leave one teammate on the radio, watch for ambush waves</td></tr></tbody></table>"
+  }
+}
