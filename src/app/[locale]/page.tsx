@@ -398,6 +398,36 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
         </div>
       </section>
 
+      {/* ===== UPDATES (Data-Driven Cards 3) ===== */}
+      <section className="bg-[var(--color-bg-secondary)] border-y border-[var(--color-border)] full-width-bg">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="flex items-center justify-between mb-8">
+            <div>
+              <div className="section-label">{t('home_module_updates')}</div>
+              <h2 className="text-2xl md:text-3xl font-bold font-[var(--font-heading)] gradient-text">{t('home_module_updates_title')}</h2>
+            </div>
+            <Link href="/updates" title={t('home_module_updates')} className="text-sm font-semibold text-[var(--color-accent)] hover:underline flex items-center gap-1">{t('view_all')} <ArrowRight className="w-3 h-3" /></Link>
+          </div>
+          <p className="text-[var(--color-text-secondary)] mb-6 leading-relaxed">{t('home_module_updates_desc')}</p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5">
+            {UPDATES.map((update) => {
+              const tc = tierColorVal(update.tier);
+              return (
+                <Link key={update.id} href="/updates" title={t(update.nameKey)} className="category-card group block rounded-2xl">
+                  <div className="flex items-center gap-2 mb-2">
+                    <span className="text-[10px] font-bold px-2 py-0.5 rounded-full" style={{ color: tc, background: `${tc}15` }}>{t('tierList_tierLabel')} {update.tier}</span>
+                    <Clock className="w-4 h-4 text-[var(--color-accent)]" />
+                  </div>
+                  <h3 className="text-[0.9375rem] font-bold font-[var(--font-heading)] text-[var(--color-text-primary)] group-hover:text-[var(--color-accent)] transition-colors mb-1">{t(update.nameKey)}</h3>
+                  <p className="card-meta text-[0.75rem] text-[var(--color-text-muted)] mb-2"><span className="meta-label">{update.type}</span></p>
+                  <p className="card-desc text-[0.8125rem] text-[var(--color-text-secondary)]">{t(update.headlineKey)}</p>
+                </Link>
+              );
+            })}
+          </div>
+        </div>
+      </section>
+
       <div className="glow-line full-width-bg" />
 
       {/* ===== FAQ ===== */}
